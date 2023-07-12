@@ -1,3 +1,8 @@
+### Video of issue
+
+![CleanShot 2023-07-12 at 11 59 31](https://github.com/benschac/repo-switch-disable/assets/2502947/675ca3f1-5bff-4218-8d1c-8d029a088035)
+
+
 # Tamagui + Solito + Next + Expo Monorepo
 
 ```sh
